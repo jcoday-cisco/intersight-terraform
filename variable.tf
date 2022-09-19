@@ -27,6 +27,6 @@ variable "enabled" {
   type = bool
 }
 
-variable "desciption" {
+variable "description" {
   type = string
 }
